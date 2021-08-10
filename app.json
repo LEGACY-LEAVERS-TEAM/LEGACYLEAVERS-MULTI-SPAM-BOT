@@ -1,6 +1,6 @@
 {
-  "name": "RDX MULTI SPAM BOT",
-  "description": "A POWERFULL AND FAST SPAM BOT BY RDX.",
+  "name": "SPAM-BOT",
+  "description": "A POWERFULL AND FAST SPAM BOT BY .",
   "logo": "https://telegra.ph/file/c6d5a3802c0f0a7061a34.jpg",
   "keywords": [
     "spambot",
@@ -11,7 +11,7 @@
       "STRING": {
         "description": "Telethon String Session",
         "value": "",
-        "required": true
+        "required": false
       },
       "STRING2": {
         "description": "Telethon String Session",
@@ -134,7 +134,7 @@
         "required": false
       },
       "API_ID": {
-        "description": "Telethon String Session",
+        "description": "APP ID ",
         "value": "",
         "required": true
       },
