@@ -1,7 +1,7 @@
 {
-  "name": "SPAM-BOT",
+  "name": "LEGACY-LEAVERS-MULTI-SPAM-BOT",
   "description": "A POWERFULL AND FAST SPAM BOT BY .",
-  "logo": "https://telegra.ph/file/c6d5a3802c0f0a7061a34.jpg",
+  "logo": "https://telegra.ph/file/1ab1755793d666c714c23.jpg",
   "keywords": [
     "spambot",
     "telegram",
@@ -104,31 +104,6 @@
         "required": false
       },
       "STRING20": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING21": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING22": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING23": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING24": {
-        "description": "Telethon String Session",
-        "value": "",
-        "required": false
-      },
-      "STRING25": {
         "description": "Telethon String Session",
         "value": "",
         "required": false
