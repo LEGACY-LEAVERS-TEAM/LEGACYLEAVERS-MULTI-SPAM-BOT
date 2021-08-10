@@ -1042,8 +1042,8 @@ async def _(event):
     if event.fwd_from:
         return
     
-    Repo = f"[Click Here](https://github.com/unknownforall1/LEGACY-LEAVERS-SPAM-BOT)"
-    Deploy = f"[Click Here](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FUNKNOWNFORALL1%2Flegacy-leavers-spam-bot)"
+    Repo = f"[Click Here](https://github.com/unknownforall1/LEGACY-LEAVERS-MULTI-SPAM-BOT)"
+    Deploy = f"[Click Here](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FUNKNOWNFORALL1%2Flegacy-leavers-multi-spam-bot)"
     await edit_or_reply(
         event, f"**LEGACY LEAVERS SPAM BOT REPO:** {Repo}\n\n**Deploy Now:** {Deploy}"
     )
