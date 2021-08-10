@@ -1,16 +1,18 @@
-# RDX MULTI DEPLOY BOT
+# LEGACY LEAVERS MULTI SPAM BOT
 
-## MODIFIED OF [YUKKI MULTI SPAM  BOT](https://github.com/YukkiBot/YukkiMultiSpamBot)
-
+### MODIFIED OF [YUKKI MULTI SPAM  BOT](https://github.com/YukkiBot/YukkiMultiSpamBot)
+### MODIFIED BY 
+   - [SIDDHANT](https://t.me/siddhant_devil)
+   - [SIDDHARTH](https://t.me/)
 <p align="center">
-  <img src="https://telegra.ph/file/c6d5a3802c0f0a7061a34.jpg">
+  <img src="https://telegra.ph/file/1ab1755793d666c714c23.jpg">
 </p>
 
 
 
 ## 🚀 Deploy on Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Funknownforall1%2FRDX-MULTI-SPAM-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Funknownforall1%2FLEGACY-LEAVERS-MULTI-SPAM-BOT)
 
 
 
@@ -26,11 +28,11 @@ No Requirement of API ID and API HASH
 
 # FEATURES
 
-   - DEPLOY ON 25 ACCOUNTS AT A SAME TIME 
+   - DEPLOY ON 20 ACCOUNTS AT A SAME TIME 
 
    - SPAM SPEED OP ( YUKKI BOT KA MODIFIED HAI HOGA HI ) 
 
-   - REPLYRAID , RAID PLUGIN 
+   - REPLYRAID , RAID PLUGIN , BIGSPAM , SPAM
 
 
 ### You can Use these [API ID and API HASH](https://t.me/RDX_OFFICIAL_BOT/2) while deploying
@@ -38,11 +40,11 @@ No Requirement of API ID and API HASH
 
 
 ## SUPPORT GROUP
-   - Join [RDX GROUP](@RDX_ON_FIRE) for any assistance.
+   - Join [LEGACY LEAVERS](@RDX_ON_FIRE) for any assistance.
 
 
 ## JOIN SUPPORT CHANNEL
-   - Join [RDX SUPPORT CHANNEL](@RDX_OFFICIAL_BOT).
+   - Join [LEGACY LEAVERS CHANNEL](https://t.me/legacy_leavers_spam_bot)
 
 
 ## Credits
