@@ -118,6 +118,11 @@
         "value": "",
         "required": true
       },
+      "ALIVE_NAME": {
+        "description": "YOUR NAME ",
+        "value": "",
+        "required": true
+      },
       "SUDO": {
         "description": "Sudo Users Id",
         "value": "",
