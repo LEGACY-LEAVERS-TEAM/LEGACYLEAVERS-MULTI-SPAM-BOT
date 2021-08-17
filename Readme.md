@@ -44,8 +44,8 @@ No Requirement of API ID and API HASH
 
 
 ## JOIN SUPPORT CHANNEL
-   - Join [LEGACY LEAVERS CHANNEL](https://t.me/legacy_leavers_spam_bot)
+   - Join [LEGACY LEAVERS SPAM BOT [https://t.me/LEGACY_MULTI_SPAM_BOT)
 
 
 ## Credits
-   - Thanks to [Yukki Team](https://t.me/officialyukki).
+   - Thanks to [Yukki Team](https://t.me/LEGACY_MULTI_SPAM_BOT).
