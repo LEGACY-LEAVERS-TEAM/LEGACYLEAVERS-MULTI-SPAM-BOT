@@ -3,7 +3,7 @@
 ### MODIFIED OF [YUKKI MULTI SPAM  BOT](https://github.com/YukkiBot/YukkiMultiSpamBot)
 ### MODIFIED BY 
    - [SIDDHANT](https://t.me/siddhant_devil)
-   - [SIDDHARTH](https://t.me/)
+   - [TONY](https://t.me/TONY_LOGIC_EXPERT)
 <p align="center">
   <img src="https://telegra.ph/file/1ab1755793d666c714c23.jpg">
 </p>
@@ -44,7 +44,7 @@ No Requirement of API ID and API HASH
 
 
 ## JOIN SUPPORT CHANNEL
-   - Join [LEGACY LEAVERS SPAM BOT [https://t.me/LEGACY_MULTI_SPAM_BOT)
+   - Join [LEGACY LEAVERS SPAM BOT) [https://t.me/LEGACY_MULTI_SPAM_BOT)
 
 
 ## Credits
